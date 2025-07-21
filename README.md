@@ -25,10 +25,6 @@ This project is a machine learning-based heart disease prediction system that an
 - Confusion matrix visualization for model evaluation
 - Cross-validation for model accuracy
 
-## 📸 Screenshots (Optional)
-
-*You can add screenshots of your graphs, confusion matrix heatmap, or accuracy comparisons here.*
-
 ## 🚀 How to Run
 
 1. **Clone the Repository** or open the `.ipynb` file in Jupyter Notebook.
